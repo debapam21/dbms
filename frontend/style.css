@@ -1,0 +1,59 @@
+body {
+  margin: 0%;
+}
+
+.form{
+  position :relative;
+  bottom: 0px;
+  background-color: rgb(255, 255, 255);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: lighter;
+  padding: 0px 30px;
+  width: fit-content;
+  height:fit-content;
+  border: 1px groove rgb(65, 64, 64);
+  border-radius: 10px;
+  margin: auto;
+  padding-bottom: 10px;
+}
+
+.btn waves-effect waves-light{
+  margin-top: 10px;
+  background-color: rgb(34, 41, 41);
+  color: azure;
+  font-size: large;
+  border-radius: 4px;
+  margin: 0 40%;
+}
+
+.footer{
+  background-color: rgb(32, 26, 26);
+  color: rgb(255, 1, 65);
+  position:absolute;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 10px;
+  bottom: 0px;
+  width: 100%;
+}
+.login-poster{
+  margin-top: 50px;
+  margin-left: 100px;
+  height: 500px;
+  width: auto;
+}
+
+.form-div{
+  margin-top: 100px;
+  width: 40%;
+}
+.login-posterdiv{
+  width:50%;
+}
+
+.nav-wrapper{
+  background-color: rgb(255, 255, 255);
+  color: aquamarine;
+  height: 100px;
+}
